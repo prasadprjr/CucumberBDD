@@ -24,7 +24,7 @@ public void enterUserName()
 	loginPage.enterUserName("Admin");
 }
 @When ("User enter password")
-public void enterPassword()
+public void enterPassword() 
 {
 	loginPage.enterPassWord("admin123");
  

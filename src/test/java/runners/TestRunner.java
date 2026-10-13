@@ -17,7 +17,7 @@ import static io.cucumber.junit.platform.engine.Constants.PLUGIN_PROPERTY_NAME;
 			key=PLUGIN_PROPERTY_NAME,
 			value="pretty,html:target/cucumber-Report.html"			
 			
-			)
+			) 
 	public class TestRunner {	
 	
 

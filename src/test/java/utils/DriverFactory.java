@@ -15,7 +15,7 @@ public static void initializeDriver()
 public static WebDriver getDriver()
 {
 	return driver;
-}
+} 
 public static void quitDriver()
 {
 	if(driver!=null)
